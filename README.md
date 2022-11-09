@@ -14,5 +14,7 @@ Before running the project please do the needfulls:
       (Here student_springboot is schema name. Please update if using any other schema in application.properties file.)
       
 Two test user details are :
+
 User : user2        Password : password2
+
 User : user3        Password : password3
