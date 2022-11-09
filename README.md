@@ -12,3 +12,7 @@ Before running the project please do the needfulls:
   i) Update database related information in application.properties file
   ii) Create schema manually if using MySQL (create database student_springboot;)
       (Here student_springboot is schema name. Please update if using any other schema in application.properties file.)
+      
+Two test user details are :
+User : user2        Password : password2
+User : user3        Password : password3
